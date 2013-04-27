@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/windows_natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/macosx_natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jorbis-0.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/solaris_natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogg-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/linux_natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slick-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-debug.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl_util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
